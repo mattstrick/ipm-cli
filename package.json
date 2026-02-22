@@ -1,5 +1,5 @@
 {
-  "version": "11.10.1",
+  "version": "0.1.0",
   "name": "ipm",
   "description": "a package manager for JavaScript",
   "workspaces": [
