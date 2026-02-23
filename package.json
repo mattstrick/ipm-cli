@@ -1,7 +1,7 @@
 {
   "name": "ipm",
-  "version": "0.1.0",
-  "description": "Package manager for JavaScript",
+  "version": "0.2.0",
+  "description": "Package manager for over 10+ languages",
   "type": "module",
   "main": "lib/index.js",
   "bin": {
